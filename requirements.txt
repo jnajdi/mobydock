@@ -1,5 +1,5 @@
 flask==0.10.1
-gunicorn==19.5.0
+gunicorn ~> 19.5.0
 
 flask-SQLAlchemy==2.0
 psycopg2==2.6.1
